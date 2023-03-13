@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1628650717 source:d:\learning\computer room appointment\main.cpp
+	<iostream>
+	<stdlib.h>
+	"identity.h"
+	<fstream>
+	<string>
+	"globalflie.h"
+	"student.h"
+	"teacher.h"
+	"manager.h"
+
+1628564271 source:d:\learning\computer room appointment\manager.cpp
+	"manager.h"
+
+1628600997 d:\learning\computer room appointment\manager.h
+	<iostream>
+	"identity.h"
+	<string>
+	<fstream>
+	"globalflie.h"
+	<stdlib.h>
+	<vector>
+	"student.h"
+	"teacher.h"
+	<algorithm>
+	"computerroom.h"
+
+1628474178 d:\learning\computer room appointment\identity.h
+	<iostream>
+
+1628650314 source:d:\learning\computer room appointment\student.cpp
+	"student.h"
+
+1628603026 d:\learning\computer room appointment\student.h
+	<iostream>
+	"identity.h"
+	<string>
+	<vector>
+	"computerroom.h"
+	<fstream>
+	"globalflie.h"
+	<stdlib.h>
+	"orderfile.h"
+
+1628650717 source:d:\learning\computer room appointment\teacher.cpp
+	"teacher.h"
+
+1628652819 d:\learning\computer room appointment\teacher.h
+	<iostream>
+	"identity.h"
+	<string>
+	"globalflie.h"
+	<vector>
+	"orderfile.h"
+	<stdlib.h>
+
+1628477940 d:\learning\computer room appointment\globalflie.h
+
+1628563290 d:\learning\computer room appointment\computerroom.h
+	<iostream>
+
+1628645758 d:\learning\computer room appointment\orderfile.h
+	<iostream>
+	"globalflie.h"
+	<fstream>
+	<map>
+	<string>
+
+1628650756 source:d:\learning\computer room appointment\orderfile.cpp
+	"orderfile.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625749172 source:d:\learning\comunicaion\function.cpp
+	<iostream>
+
+1625736471 source:d:\learning\comunicaion\main.cpp
+	<iostream>
+	"comunication.h"
+
+1625736471 d:\learning\comunicaion\comunication.h
+	<iostream>
+

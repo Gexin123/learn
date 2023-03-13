@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1626685604 source:d:\learning\management of staff\boss.cpp
+	"boss.h"
+
+1626663698 d:\learning\management of staff\boss.h
+	<iostream>
+	"worker.h"
+
+1626678109 d:\learning\management of staff\worker.h
+	<iostream>
+	<string.h>
+
+1626685604 source:d:\learning\management of staff\manager.cpp
+	"manager.h"
+
+1626663698 d:\learning\management of staff\manager.h
+	<iostream>
+	"worker.h"
+
+1626685604 source:d:\learning\management of staff\employee.cpp
+	"employee.h"
+	<string>
+
+1626678297 d:\learning\management of staff\employee.h
+	<iostream>
+	"worker.h"
+
+1626695675 source:d:\learning\management of staff\main.cpp
+	<iostream>
+	<stdlib.h>
+	"workermanger.h"
+	"worker.h"
+	"employee.h"
+	"manager.h"
+	"boss.h"
+
+1626696452 d:\learning\management of staff\workermanger.h
+	<iostream>
+	"worker.h"
+	"employee.h"
+	"manager.h"
+	"boss.h"
+	<fstream>
+
+1626696452 source:d:\learning\management of staff\workermanager.cpp
+	"workermanger.h"
+	<stdlib.h>
+
